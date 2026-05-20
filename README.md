@@ -1,6 +1,6 @@
 # Sag-AI Showcase
 
-Public overview of the Sag-AI BuildTech ecosystem.
+Public overview of the Sag-AI ecosystem.
 
 ## Core Systems
 
