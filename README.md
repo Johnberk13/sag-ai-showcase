@@ -21,12 +21,12 @@ https://github.com/sag-aibuildtech/asena
 ## Founder
 
 John Gursoy  
-Founder of Sag-AI BuildTech  
+Founder of Sag-AI 
 
-https://sag-aibuildtech.com
+https://qasena.com
 
 ---
 
 ## Website
 
-https://sag-aibuildtech.com
+https://qasena.com
